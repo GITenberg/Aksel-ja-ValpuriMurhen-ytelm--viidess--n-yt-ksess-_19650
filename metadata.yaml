@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8794
     wikipedia: http://en.wikipedia.org/wiki/Adam_Gottlob_Oehlenschl%C3%A4ger
 description: 'Translation of: Axel og Valborg'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19650#Aksel-ja-ValpuriMurhen-ytelm--viidess--n-yt-ksess-
 gutenberg_issued: '2006-10-28'
 gutenberg_type: Text
 identifiers:
